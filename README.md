@@ -1,4 +1,4 @@
-# Hi 👋, I'm Abhishek
+# Hi 👋, I'm Abhishek Pudugosula
 
 ### 🎓 Computer Science Engineering Student | 🤖 AI & ML | 🧠 Agentic AI  Enthusiast
 
