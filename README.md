@@ -1,12 +1,36 @@
-```html
-<h1 align="center">Hi 👋, I'm Abhishek Pudugosula</h1>
+# Hi 👋, I'm Abhishek Pudugosula
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Abhishek+Pudugosula;AI+%26+ML+Enthusiast;Agentic+AI+Learner;Database+Management+Enthusiast;Data+Structures+%26+Algorithms;Computer+Science+Engineering+Student"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-```
+### 🎓 Computer Science Engineering Student | 🤖 AI & ML | 🧠 Agentic AI  Enthusiast
+
+---
+
+## 🚀 About Me
+
+I am a Computer Science Engineering student with a strong interest in Artificial Intelligence, Machine Learning, Agentic AI, Database Management Systems, and Data Structures & Algorithms. I enjoy exploring emerging technologies and building innovative solutions that address real-world challenges. My learning journey focuses on developing practical skills in software development, intelligent systems, database design, and problem-solving. I am continuously expanding my knowledge through hands-on projects, coding practice, and research-driven learning while striving to create impactful technology solutions.
+
+---
+
+## 📚 Areas of Interest
+
+* 🤖 Artificial Intelligence (AI)
+* 🧠 Machine Learning (ML)
+* ⚡ Agentic AI
+* 🗄️ Database Management Systems (DBMS)
+* 📊 Data Structures & Algorithms (DSA)
+* 🌐 Web Development
+* ☁️ Cloud Computing
+* 📡 Internet of Things (IoT)
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:**
+[abhishekpudugosula@gmail.com](mailto:abhishekpudugosula@gmail.com)
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/abhishek941/
+
+---
+
+### ⭐ "Learning, Building, and Innovating with AI, Agentic Systems, and Modern Technologies."
