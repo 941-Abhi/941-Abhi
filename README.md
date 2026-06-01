@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am a Computer Science Engineering student with a strong interest in Artificial Intelligence, Machine Learning, Agentic AI, Database Management Systems, and Data Structures & Algorithms. I enjoy exploring emerging technologies and building innovative solutions that address real-world challenges. My learning journey focuses on developing practical skills in software development, intelligent systems, database design, and problem-solving. I am continuously expanding my knowledge through hands-on projects, coding practice, and research-driven learning while striving to create impactful technology solutions.
+I am a Computer Science Engineering student with a strong interest in Artificial Intelligence, Machine Learning, Agentic AI,Data Science and Analytics, Database Management Systems, and Data Structures & Algorithms. I enjoy exploring emerging technologies and building innovative solutions that address real-world challenges. My learning journey focuses on developing practical skills in software development, intelligent systems, database design, and problem-solving. I am continuously expanding my knowledge through hands-on projects, coding practice, and research-driven learning while striving to create impactful technology solutions.
 
 ---
 
