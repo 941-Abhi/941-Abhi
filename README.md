@@ -15,7 +15,7 @@ I am a Computer Science Engineering student with a strong passion for coding, pr
 ### Frontend Development
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
 - Responsive Web Design
 
 ### Programming & CS Fundamentals
