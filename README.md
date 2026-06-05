@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhishek Pudugosula
 
-### 💻 CS Student | Frontend Developer | AI • ML • Agentic AI • Automation Enthusiast | DSA & DBMS | Ex-Intern @ FutureInterns · Prodigy Infotech · VaultofCodes · Codec Technologies
+### 💻 CS Student | Frontend Developer | AI • ML • Agentic AI • Automation Enthusiast | Ex-Intern @ FutureInterns · Prodigy Infotech · VaultofCodes · Codec Technologies
 
 
 ---
