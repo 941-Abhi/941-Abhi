@@ -8,7 +8,7 @@
 
 I am a Computer Science Engineering student with a strong passion for coding, problem-solving, and building real-world applications. I have a keen interest in Artificial Intelligence, Machine Learning, Agentic AI, Data Science, Database Management Systems, and Data Structures & Algorithms. I enjoy developing interactive and responsive web applications using **HTML, CSS, and JavaScript**, and I have successfully completed multiple frontend development projects. I continuously enhance my technical skills through hands-on projects, coding practice, and exploring emerging technologies.
 
---
+---
 ## 🚀 Technical Skills
 
 ### Frontend Development
