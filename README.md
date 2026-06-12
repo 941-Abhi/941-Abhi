@@ -13,8 +13,8 @@ I am a Computer Science Engineering student with a strong passion for coding, pr
 ## 🚀 Technical Skills
 
 ### Frontend Development
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Responsive Web Design
 
